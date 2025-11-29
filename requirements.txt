@@ -1,0 +1,7 @@
+matplotlib
+matplotlib-venn
+networkx
+Pillow
+requests
+graphviz
+
